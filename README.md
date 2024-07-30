@@ -1,7 +1,7 @@
 # Brio Terminal Yellow - Dark VS Code Theme
 
 
-Welcome to the ![Brio](https://www.briotech.com/) Terminal Yellow theme for Visual Studio Code! This theme brings a vibrant and energetic yellow color to your coding environment, inspired by Brio's signature style.
+Welcome to the [Brio](https://www.briotech.com/) Terminal Yellow theme for Visual Studio Code! This theme brings a vibrant and energetic yellow color to your coding environment, inspired by Brio's signature style.
 
 ![Brio Terminal Yellow](/media/thumbnail.png)
 
