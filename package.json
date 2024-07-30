@@ -1,0 +1,29 @@
+{
+  "name": "brio-terminal-yellow",
+  "displayName": "Brio Terminal Yellow",
+  "publisher": "HUSAM",
+  "description": "A VS Code Theme for Brio's Technical Teams",
+  "version": "0.0.1",
+  "icon": "media/icon.png",
+  "author": {
+    "name": "Mohammed Husamuddin"
+  },
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "bugs": {
+    "email": "workforhusam@gmail.com"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brio Terminal Yellow-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Brio Terminal Yellow-Dark-color-theme.json"
+      }
+    ]
+  }
+}
