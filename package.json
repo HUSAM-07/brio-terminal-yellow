@@ -5,6 +5,7 @@
   "description": "A VS Code Theme for Brio's Technical Teams",
   "version": "0.0.1",
   "icon": "media/icon.png",
+  "license": "MIT",
   "author": {
     "name": "Mohammed Husamuddin"
   },
@@ -16,6 +17,10 @@
   ],
   "bugs": {
     "email": "workforhusam@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HUSAM-07/brio-terminal-yellow.git"
   },
   "contributes": {
     "themes": [
